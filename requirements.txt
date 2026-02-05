@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+
+librosa
+torchaudio
+numpy
+scipy
+python-multipart
